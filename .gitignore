@@ -1,0 +1,7 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+mbed-os
+mod_rbms_lib
